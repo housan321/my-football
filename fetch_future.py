@@ -10,6 +10,8 @@ from typing import Dict, List, Optional
 import time
 import os
 from dotenv import load_dotenv
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 # Configuration
 load_dotenv()
@@ -177,8 +179,15 @@ def format_datetime(unix_timestamp: int) -> str:
     """Convert Unix timestamp to readable datetime"""
     try:
         if unix_timestamp and unix_timestamp > 0:
-            dt = datetime.fromtimestamp(unix_timestamp)
-            return dt.strftime("%Y-%m-%d %H:%M:%S")
+            # dt = datetime.fromtimestamp(unix_timestamp)
+            # return dt.strftime("%Y-%m-%d %H:%M:%S")
+
+            # 先转为 UTC 的 datetime 对象
+            dt_utc = datetime.fromtimestamp(unix_timestamp, tz=timezone.utc)
+            # 转换到目标时区，例如北京时间
+            target_tz = ZoneInfo("Asia/Shanghai")
+            dt_target = dt_utc.astimezone(target_tz)
+            return dt_target.strftime("%Y-%m-%d %H:%M:%S")
     except:
         pass
     return ""
