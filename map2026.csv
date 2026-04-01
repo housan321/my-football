@@ -1,0 +1,593 @@
+﻿LeagueID_Agility,League_Wb,TeamName_Abbrivation,TeamId_Wb,TeamName_Wb,TeamId_Agility,TeamName_Agility,League_Agility
+15050,英超,ARS,epl_ars,Arsenal ,59,阿森纳,England Premier League
+15050,英超,TOT,epl_tot,Tottenham Hotspur ,92,托特纳姆热刺,England Premier League
+15050,英超,MNC,epl_mnc,Manchester City ,93,曼城,England Premier League
+15050,英超,CRY,epl_cry,Crystal Palace ,143,水晶宫,England Premier League
+15050,英超,EVE,epl_eve,Everton ,144,埃弗顿,England Premier League
+15050,英超,BUR,epl_bur,Burnley ,145,伯恩利,England Premier League
+15050,英超,BOU,epl_bou,AFC Bournemouth,148,伯恩茅斯,England Premier League
+15050,英超,MAN,epl_man,Manchester United ,149,曼联,England Premier League
+15050,英超,LIV,epl_liv,Liverpool ,151,利物浦,England Premier League
+15050,英超,CHE,epl_che,Chelsea ,152,切尔西,England Premier League
+15050,英超,WHU,epl_whu,West Ham United ,153,西汉姆联,England Premier League
+15050,英超,SUN,epl_sun,Sunderland ,156,桑德兰,England Premier League
+15050,英超,NEW,epl_new,Newcastle United ,157,纽卡斯尔联,England Premier League
+15050,英超,AVL,epl_avl,Aston Villa ,158,阿斯顿维拉,England Premier League
+15050,英超,FUL,epl_ful,Fulham ,162,富勒姆,England Premier League
+15050,英超,BHA,epl_bha,Brighton & Hove Albion ,209,布莱顿,England Premier League
+15050,英超,NFO,epl_nfo,Nottingham Forest ,211,诺丁汉森林,England Premier League
+15050,英超,BRE,epl_bre,Brentford ,218,布伦特福德,England Premier League
+15050,英超,LEE,epl_lee,Leeds United ,222,利兹联,England Premier League
+15050,英超,WOL,epl_wol,Wolverhampton Wanderers ,223,狼队,England Premier League
+14956,西甲,VIL,laliga_vil,Villarreal,76,比利亚雷亚尔,Spain La Liga
+14956,西甲,BAR,laliga_bar,Barcelona,83,巴塞罗那,Spain La Liga
+14956,西甲,RMA,laliga_rma,Real Madrid,84,皇家马德里,Spain La Liga
+14956,西甲,SEV,laliga_sev,Sevilla,98,塞维利亚,Spain La Liga
+14956,西甲,ATM,laliga_atm,Atlético Madrid,117,马德里竞技,Spain La Liga
+14956,西甲,ALA,laliga_ala,Alavés,277,阿拉维斯,Spain La Liga
+14956,西甲,ESP,laliga_esp,Espanyol,280,西班牙人,Spain La Liga
+14956,西甲,CEL,laliga_cel,Celta Vigo,281,塞尔塔,Spain La Liga
+14956,西甲,BET,laliga_bet,Real Betis,284,皇家贝蒂斯,Spain La Liga
+14956,西甲,ATH,laliga_ath,Athletic Club ,285,毕尔巴鄂竞技,Spain La Liga
+14956,西甲,OSA,laliga_osa,Osasuna,287,奥萨苏纳,Spain La Liga
+14956,西甲,VAL,laliga_val,Valencia,288,瓦伦西亚,Spain La Liga
+14956,西甲,RSO,laliga_rso,Real Sociedad,290,皇家社会,Spain La Liga
+14956,西甲,RAY,laliga_ray,Rayo Vallecano,291,巴列卡诺,Spain La Liga
+14956,西甲,LEV,laliga_lev,Levante,292,莱万特,Spain La Liga
+14956,西甲,GET,laliga_get,Getafe ,293,赫塔费,Spain La Liga
+14956,西甲,ELC,laliga_elc,Elche,295,埃尔切,Spain La Liga
+14956,西甲,MLL,laliga_mll,Mallorca,298,马洛卡,Spain La Liga
+14956,西甲,OVI,laliga_ovi,Real Oviedo,309,皇家奥维耶多,Spain La Liga
+14956,西甲,GIR,laliga_gir,Girona ,312,赫罗纳,Spain La Liga
+15068,意甲,NAP,seriea_nap,Napoli,74,那不勒斯,Italy Serie A
+15068,意甲,JUV,seriea_juv,Juventus,90,尤文图斯,Italy Serie A
+15068,意甲,ROMA,seriea_roma,Roma,113,罗马,Italy Serie A
+15068,意甲,CAG,seriea_cag,Cagliari,455,卡利亚里,Italy Serie A
+15068,意甲,TOR,seriea_tor,Torino,456,都灵,Italy Serie A
+15068,意甲,GEN,seriea_gen,Genoa,460,热那亚,Italy Serie A
+15068,意甲,MIL,seriea_mil,AC Milan,461,AC 米兰,Italy Serie A
+15068,意甲,LAZ,seriea_laz,Lazio,463,拉齐奥,Italy Serie A
+15068,意甲,BOL,seriea_bol,Bologna,467,博洛尼亚,Italy Serie A
+15068,意甲,SAS,seriea_sas,Sassuolo,469,萨索洛,Italy Serie A
+15068,意甲,MIL,seriea_mil,AC Milan,470,国际米兰,Italy Serie A
+15068,意甲,FIO,seriea_fio,Fiorentina,471,佛罗伦萨,Italy Serie A
+15068,意甲,PAR,seriea_par,Parma,476,帕尔马,Italy Serie A
+15068,意甲,PIS,seriea_pis,Pisa,507,比萨,Italy Serie A
+15068,意甲,CRE,seriea_cre,Cremonese,1046,克雷莫内塞,Italy Serie A
+15068,意甲,ATA,seriea_ata,Atalanta,464,亚特兰大,Italy Serie A
+15068,意甲,UDI,seriea_udi,Udinese,466,乌迪内斯,Italy Serie A
+15068,意甲,VER,seriea_ver,Hellas Verona,473,维罗纳,Italy Serie A
+15068,意甲,COMO,seriea_como,Como,518,科莫,Italy Serie A
+15068,意甲,LEC,seriea_lec,Lecce,2330,莱切,Italy Serie A
+14968,德甲,DOR,bundesliga_dor,Borussia Dortmund,33,多特蒙德,Germany Bundesliga
+14968,德甲,M05,bundesliga_m05,Mainz,34,美因茨,Germany Bundesliga
+14968,德甲,HSV,bundesliga_hsv,Hamburger SV,36,汉堡,Germany Bundesliga
+14968,德甲,SVW,bundesliga_svw,Werder Bremen,37,云达不莱梅,Germany Bundesliga
+14968,德甲,MUN,bundesliga_mun,Bayern Munich,38,拜仁慕尼黑,Germany Bundesliga
+14968,德甲,BMG,bundesliga_bmg,Borussia M'gladbach,39,门兴格拉德巴赫,Germany Bundesliga
+14968,德甲,B04,bundesliga_b04,Bayer Leverkusen,40,勒沃库森,Germany Bundesliga
+14968,德甲,KOE,bundesliga_koe,FC Cologne,41,科隆,Germany Bundesliga
+14968,德甲,SCF,bundesliga_scf,SC Frieiburg,42,弗赖堡,Germany Bundesliga
+14968,德甲,WOB,bundesliga_wob,Vfl Wolfsburg,43,沃尔夫斯堡,Germany Bundesliga
+14968,德甲,SGE,bundesliga_sge,Eintracht Frankfurt,44,法兰克福,Germany Bundesliga
+14968,德甲,RBL,bundesliga_rbl,RB Leipzig,46,RB 莱比锡,Germany Bundesliga
+14968,德甲,TSG,bundesliga_tsg,TSG Hoffenheim,49,霍芬海姆,Germany Bundesliga
+14968,德甲,FCA,bundesliga_fca,FC Augsburg,50,奥格斯堡,Germany Bundesliga
+14968,德甲,VFB,bundesliga_vfb,Vfb Stuttgart,51,斯图加特,Germany Bundesliga
+14968,德甲,FCU,bundesliga_fcu,1. FC Union Berlin,541,柏林联合,Germany Bundesliga
+14968,德甲,STP,bundesliga_stp,St. Pauli,548,圣保利,Germany Bundesliga
+14968,德甲,HDH,bundesliga_hdh,1. FC Heidenheim 1846,552,海登海姆,Germany Bundesliga
+16504,美职联,MTL,mls_mtl,CF Montr??al,1,蒙特利尔冲击,USA MLS
+16504,美职联,NYC,mls_nyc,New York City FC,2,纽约城,USA MLS
+16504,美职联,NY,mls_ny,New York Red Bulls,4,纽约红牛,USA MLS
+16504,美职联,VAN,mls_van,Vancouver Whitecaps,5,温哥华白帽,USA MLS
+16504,美职联,HOU,mls_hou,Houston Dynamo FC,6,休斯敦迪纳摩,USA MLS
+16504,美职联,CHI,mls_chi,Chicago Fire FC,7,芝加哥火焰,USA MLS
+16504,美职联,SKC,mls_skc,Sporting Kansas City,8,堪萨斯城体育,USA MLS
+16504,美职联,CLB,mls_clb,Columbus Crew,9,哥伦布机员,USA MLS
+16504,美职联,LA,mls_la,LA Galaxy,10,洛杉矶银河,USA MLS
+16504,美职联,NE,mls_ne,New England Revolution,11,新英格兰革命,USA MLS
+16504,美职联,COL,mls_col,Colorado Rapids,12,科罗拉多急流,USA MLS
+16504,美职联,DAL,mls_dal,FC Dallas,13,达拉斯 FC,USA MLS
+16504,美职联,RSL,mls_rsl,Real Salt Lake,14,皇家盐湖城,USA MLS
+16504,美职联,SJ,mls_sj,San Jose Earthquakes,15,圣何塞地震,USA MLS
+16504,美职联,PHI,mls_phi,Philadelphia Union,16,费城联合,USA MLS
+16504,美职联,ORL,mls_orl,Orlando City SC,17,奥兰多城,USA MLS
+16504,美职联,SEA,mls_sea,Seattle Sounders FC,18,西雅图海湾人,USA MLS
+16504,美职联,TOR,mls_tor,Toronto FC,19,多伦多 FC,USA MLS
+16504,美职联,POR,mls_por,Portland Timbers,20,波特兰伐木工,USA MLS
+16504,美职联,MIN,mls_min,Minnesota United FC,1015,明尼苏达联,USA MLS
+16504,美职联,ATL,mls_atl,Atlanta United FC,1016,亚特兰大联,USA MLS
+16504,美职联,LAFC,mls_lafc,LAFC,6490,洛杉矶 FC,USA MLS
+16504,美职联,CIN,mls_cin,FC Cincinnati,8043,辛辛那提 FC,USA MLS
+16504,美职联,DC,mls_dc,D.C. United,13401,华盛顿特区联,USA MLS
+16504,美职联,MIA,mls_mia,Inter Miami CF,677446,迈阿密国际,USA MLS
+16504,美职联,NSH,mls_nsh,Nashville SC,677447,纳什维尔 SC,USA MLS
+16504,美职联,ATX,mls_atx,Austin FC,698284,奥斯汀 FC,USA MLS
+16504,美职联,CLT,mls_clt,Charlotte FC,711351,夏洛特 FC,USA MLS
+16504,美职联,STL,mls_stl,St. Louis CITY SC,945555,圣路易斯城,USA MLS
+16504,美职联,SD,mls_sd,San Diego FC,1398748,圣地亚哥 FC,USA MLS
+14932,法甲,MON,ligue1_mon,AS Monaco,56,摩纳哥,France Ligue 1
+14932,法甲,LYON,ligue1_lyon,Lyon,57,里昂,France Ligue 1
+14932,法甲,PSG,ligue1_psg,Paris Saint-Germain,68,巴黎圣日耳曼,France Ligue 1
+14932,法甲,METZ,ligue1_metz,Metz,438,梅斯,France Ligue 1
+14932,法甲,TOU,ligue1_tou,Toulouse,439,图卢兹,France Ligue 1
+14932,法甲,NAN,ligue1_nan,Nantes,440,南特,France Ligue 1
+14932,法甲,LILL,ligue1_lill,Lille,441,里尔,France Ligue 1
+14932,法甲,REN,ligue1_ren,Stade Rennais,442,雷恩,France Ligue 1
+14932,法甲,OLM,ligue1_olm,Marseille,443,马赛,France Ligue 1
+14932,法甲,ANG,ligue1_ang,Angers,444,昂热,France Ligue 1
+14932,法甲,NICE,ligue1_nice,Nice,445,尼斯,France Ligue 1
+14932,法甲,LOR,ligue1_lor,Lorient,448,洛里昂,France Ligue 1
+14932,法甲,RCL,ligue1_rcl,Lens,449,朗斯,France Ligue 1
+14932,法甲,AUX,ligue1_aux,AJ Auxerre,479,欧塞尔,France Ligue 1
+14932,法甲,STR,ligue1_str,Strasbourg,480,斯特拉斯堡,France Ligue 1
+14932,法甲,BRE,ligue1_bre,Brest,491,布雷斯特,France Ligue 1
+14932,法甲,HAC,ligue1_hac,Le Havre AC,493,勒阿弗尔,France Ligue 1
+14932,法甲,PAR,ligue1_par,Paris FC,494,巴黎 FC,France Ligue 1
+14936,荷甲,AJA,eredivisie_aja,Ajax Amsterdam,120,阿贾克斯,Netherlands Eredivisie
+14936,荷甲,PSV,eredivisie_psv,PSV Eindhoven,121,埃因霍温,Netherlands Eredivisie
+14936,荷甲,GAE,eredivisie_gae,Go Ahead Eagles,366,前进之鹰,Netherlands Eredivisie
+14936,荷甲,FEY,eredivisie_fey,Feyenoord Rotterdam,367,费耶诺德,Netherlands Eredivisie
+14936,荷甲,HER,eredivisie_her,Heracles Almelo,370,赫拉克勒斯,Netherlands Eredivisie
+14936,荷甲,SPA,eredivisie_spa,Sparta Rotterdam,371,鹿特丹斯巴达,Netherlands Eredivisie
+14936,荷甲,GRO,eredivisie_gro,FC Groningen,372,格罗宁根,Netherlands Eredivisie
+14936,荷甲,HEE,eredivisie_hee,Heerenveen,373,海伦芬,Netherlands Eredivisie
+14936,荷甲,EXC,eredivisie_exc,Excelsior,374,精英队,Netherlands Eredivisie
+14936,荷甲,TWE,eredivisie_twe,FC Twente,375,特温特,Netherlands Eredivisie
+14936,荷甲,UTR,eredivisie_utr,FC Utrecht,376,乌得勒支,Netherlands Eredivisie
+14936,荷甲,AZ,eredivisie_az,AZ Alkmaar,378,阿尔克马尔,Netherlands Eredivisie
+14936,荷甲,NEC,eredivisie_nec,NEC Nijmegen,379,奈梅亨,Netherlands Eredivisie
+14936,荷甲,PEC,eredivisie_pec,PEC Zwolle,380,兹沃勒,Netherlands Eredivisie
+14936,荷甲,NAC,eredivisie_nac,NAC Breda,385,布雷达,Netherlands Eredivisie
+14936,荷甲,FOR,eredivisie_for,Fortuna Sittard,387,锡塔德幸运,Netherlands Eredivisie
+14936,荷甲,TEL,eredivisie_tel,Telstar,389,特尔斯达,Netherlands Eredivisie
+14936,荷甲,VOL,eredivisie_vol,FC Volendam,398,福伦丹,Netherlands Eredivisie
+15234,墨超,AME,liga_mx_ame,América,1420,美洲俱乐部,Mexico Liga MX
+15234,墨超,ATS,liga_mx_ats,Atlas,1421,阿特拉斯,Mexico Liga MX
+15234,墨超,ASL,liga_mx_asl,Atlético de San Luis,1449,圣路易斯竞技,Mexico Liga MX
+15234,墨超,CAZ,liga_mx_caz,Cruz Azul,1432,蓝十字,Mexico Liga MX
+15234,墨超,GDL,liga_mx_gdl,Guadalajara,1431,瓜达拉哈拉,Mexico Liga MX
+15234,墨超,JUA,liga_mx_jua,FC Juarez,1444,华雷斯,Mexico Liga MX
+15234,墨超,LEO,liga_mx_leo,León,1434,莱昂,Mexico Liga MX
+15234,墨超,MAZ,liga_mx_maz,Mazatlán FC,686211,马萨特兰,Mexico Liga MX
+15234,墨超,MTY,liga_mx_mty,Monterrey,1430,蒙特雷,Mexico Liga MX
+15234,墨超,NCX,liga_mx_ncx,Necaxa,1428,内卡萨,Mexico Liga MX
+15234,墨超,PAC,liga_mx_pac,Pachuca,1417,帕丘卡,Mexico Liga MX
+15234,墨超,PUE,liga_mx_pue,Puebla,1433,普埃布拉,Mexico Liga MX
+15234,墨超,UNAM,liga_mx_unam,Pumas UNAM,1422,国立自治大学,Mexico Liga MX
+15234,墨超,QRO,liga_mx_qro,Querétaro,1427,克雷塔罗,Mexico Liga MX
+15234,墨超,SAN,liga_mx_san,Santos,1426,桑托斯拉古纳,Mexico Liga MX
+15234,墨超,UANL,liga_mx_uanl,Tigres UANL,1423,老虎大学,Mexico Liga MX
+15234,墨超,TIJ,liga_mx_tij,Tijuana,1418,蒂华纳,Mexico Liga MX
+15234,墨超,TOL,liga_mx_tol,Toluca,1424,托卢卡,Mexico Liga MX
+14924,欧冠,AJA,uefa_aja,Ajax Amsterdam,120,阿贾克斯,UEFA Champions League
+14924,欧冠,ARS,uefa_ars,Arsenal,59,阿森纳,UEFA Champions League
+14924,欧冠,MON,uefa_mon,AS Monaco,56,摩纳哥,UEFA Champions League
+14924,欧冠,ATA,uefa_ata,Atalanta,464,亚特兰大,UEFA Champions League
+14924,欧冠,ATH,uefa_ath,Athletic Club,285,毕尔巴鄂竞技,UEFA Champions League
+14924,欧冠,ATM,uefa_atm,Atlético Madrid,117,马德里竞技,UEFA Champions League
+14924,欧冠,BAR,uefa_bar,Barcelona,83,巴塞罗那,UEFA Champions League
+14924,欧冠,B04,uefa_b04,Bayer Leverkusen,40,勒沃库森,UEFA Champions League
+14924,欧冠,MUN,uefa_mun,Bayern Munich,38,拜仁慕尼黑,UEFA Champions League
+14924,欧冠,BEN,uefa_ben,Benfica,78,本菲卡,UEFA Champions League
+14924,欧冠,BODO,uefa_bodo,Bodo/Glimt,332,博多格林特,UEFA Champions League
+14924,欧冠,DOR,uefa_dor,Borussia Dortmund,33,多特蒙德,UEFA Champions League
+14924,欧冠,CHE,uefa_che,Chelsea,152,切尔西,UEFA Champions League
+14924,欧冠,BRU,uefa_bru,Club Brugge,95,布鲁日,UEFA Champions League
+14924,欧冠,SGE,uefa_sge,Eintracht Frankfurt,44,法兰克福,UEFA Champions League
+14924,欧冠,KBH,uefa_kbh,F.C. K??benhavn,55,哥本哈根,UEFA Champions League
+14924,欧冠,QAR,uefa_qar,FK Qarabag,75,卡拉巴赫,UEFA Champions League
+14924,欧冠,GAL,uefa_gal,Galatasaray,187,加拉塔萨雷,UEFA Champions League
+14924,欧冠,INT,uefa_int,Internazionale,470,国际米兰,UEFA Champions League
+14924,欧冠,JUV,uefa_juv,Juventus,90,尤文图斯,UEFA Champions League
+14924,欧冠,KAI,uefa_kai,Kairat Almaty,5408,凯拉特,UEFA Champions League
+14924,欧冠,LIV,uefa_liv,Liverpool,151,利物浦,UEFA Champions League
+14924,欧冠,MNC,uefa_mnc,Manchester City,93,曼城,UEFA Champions League
+14924,欧冠,OLM,uefa_olm,Marseille,443,马赛,UEFA Champions League
+14924,欧冠,NAP,uefa_nap,Napoli,74,那不勒斯,UEFA Champions League
+14924,欧冠,NEW,uefa_new,Newcastle United,157,纽卡斯尔联,UEFA Champions League
+14924,欧冠,OLY,uefa_oly,Olympiacos,116,奥林匹亚科斯,UEFA Champions League
+14924,欧冠,PAF,uefa_paf,Pafos,3743,帕福斯,UEFA Champions League
+14924,欧冠,PSG,uefa_psg,Paris Saint-Germain,68,巴黎圣日耳曼,UEFA Champions League
+14924,欧冠,PSV,uefa_psv,PSV Eindhoven,121,埃因霍温,UEFA Champions League
+14924,欧冠,RMA,uefa_rma,Real Madrid,84,皇家马德里,UEFA Champions League
+14924,欧冠,SLP,uefa_slp,Slavia Prague,1213,斯拉维亚布拉格,UEFA Champions League
+14924,欧冠,SCP,uefa_scp,Sporting CP,114,葡萄牙体育,UEFA Champions League
+14924,欧冠,TOT,uefa_tot,Tottenham Hotspur,92,托特纳姆热刺,UEFA Champions League
+14924,欧冠,USG,uefa_usg,Union St.-Gilloise,2572,圣吉罗斯联合,UEFA Champions League
+14924,欧冠,VIL,uefa_vil,Villarreal,76,比利亚雷亚尔,UEFA Champions League
+15115,葡超,ALV,ligaportugal_alv,Alverca,10708,阿尔维卡,Portugal Liga NOS
+15115,葡超,AVS,ligaportugal_avs,AVS,998595,AVS,Portugal Liga NOS
+15115,葡超,BEN,ligaportugal_ben,Benfica,78,本菲卡,Portugal Liga NOS
+15115,葡超,CAS,ligaportugal_cas,Casa Pia,4810,卡萨皮亚,Portugal Liga NOS
+15115,葡超,CDN,ligaportugal_cdn,C.D. Nacional,163,国民队,Portugal Liga NOS
+15115,葡超,TON,ligaportugal_ton,Tondela,169,通德拉,Portugal Liga NOS
+15115,葡超,EST2,ligaportugal_est2,Estrela,15804,埃斯特雷拉,Portugal Liga NOS
+15115,葡超,FAM,ligaportugal_fam,FC Famalicao,1033,法马利康,Portugal Liga NOS
+15115,葡超,ARO,ligaportugal_aro,Arouca,167,阿罗卡,Portugal Liga NOS
+15115,葡超,EST1,ligaportugal_est1,Estoril,164,埃斯托里尔,Portugal Liga NOS
+15115,葡超,GVFC,ligaportugal_gvfc,Gil Vicente,183,吉尔维森特,Portugal Liga NOS
+15115,葡超,MOR,ligaportugal_mor,Moreirense,174,莫雷伦斯,Portugal Liga NOS
+15115,葡超,POR,ligaportugal_por,FC Porto,82,波尔图,Portugal Liga NOS
+15115,葡超,RIO,ligaportugal_rio,Rio Ave,171,里奥阿维,Portugal Liga NOS
+15115,葡超,SCL,ligaportugal_scl,Santa Clara,1028,圣克拉拉,Portugal Liga NOS
+15115,葡超,BRAG,ligaportugal_brag,Braga,172,布拉加,Portugal Liga NOS
+15115,葡超,SCP,ligaportugal_scp,Sporting CP,114,葡萄牙体育,Portugal Liga NOS
+15115,葡超,GUI,ligaportugal_gui,Guimaraes,175,吉马良斯,Portugal Liga NOS
+14937,比甲,,,RSC Anderlecht,61,安德莱赫特,
+14937,比甲,,,Club Brugge KV,95,布鲁日,
+14937,比甲,,,KAA Gent,525,根特,
+14937,比甲,,,Royal Standard de Liege,527,标准列日,
+14937,比甲,,,Sporting du Pays de Charleroi,529,沙勒罗瓦,
+14937,比甲,,,Sint Truidense VV,532,圣图尔登,
+14937,比甲,,,KRC Genk,533,亨克,
+14937,比甲,,,KVC Westerlo,534,韦斯特洛,
+14937,比甲,,,SV Zulte Waregem,535,聚尔特瓦雷赫姆,
+14937,比甲,,,YR KV Mechelen,537,梅赫伦,
+14937,比甲,,,Oud Heverlee Leuven,690,奥德海弗莱鲁汶,
+14937,比甲,,,Royal Antwerp FC,1048,安特卫普,
+14937,比甲,,,Cercle Brugge KSV,2567,色格拉布鲁日,
+14937,比甲,,,Royal Union Saint Gilloise,2572,圣吉罗斯联合,
+14937,比甲,,,FC Verbroedering Dender Eendracht Hekelgem,669388,登德尔,
+14937,比甲,,,RAAL La Louviere,669434,拉卢维耶尔,
+15031,波超,,,KP Legia Warszawa,112,华沙莱吉亚,
+15031,波超,,,GKS Katowice,782,卡托维兹,
+15031,波超,,,KS Gornik Zabrze,785,扎布热矿工,
+15031,波超,,,Wisla Plock SA,787,维斯瓦普沃茨克,
+15031,波超,,,LKS Termalica Bruk Bet Nieciecza,788,涅波沃米采,
+15031,波超,,,Arka Gdynia 1929,795,阿尔卡格丁尼亚,
+15031,波超,,,KS Rakow Czestochowa,802,琴斯托霍瓦,
+15031,波超,,,RKS Radomiak Radom,805,拉多姆,
+15031,波超,,,KKS Lech Poznan,961,波兹南莱赫,
+15031,波超,,,RTS Widzew Lodz,1148,维泽夫罗兹,
+15031,波超,,,Zaglebie Lubin,1149,卢宾扎格韦比,
+15031,波超,,,MKS Korona Kielce,1221,凯尔采科罗纳,
+15031,波超,,,KS Lechia Gdansk,1222,格但斯克莱希亚,
+15031,波超,,,MKS Cracovia Krakow,1223,克拉科夫克拉科维亚,
+15031,波超,,,SSA Jagiellonia Bialystok,1224,比亚韦斯托克雅盖隆,
+15031,波超,,,MKS Pogon Szczecin,1225,什切青波贡,
+15031,波超,,,GKS Piast Gliwice,1226,格利维采皮亚斯特,
+15031,波超,,,Motor Lublin SA,8265,卢布林汽车,
+15055,丹麦超,,,FC Kobenhavn,55,哥本哈根,
+15055,丹麦超,,,FC Midtjylland,955,中日德兰,
+15055,丹麦超,,,FC Nordsjaelland,986,北西兰,
+15055,丹麦超,,,Aarhus Gymnastikforening,2516,奥胡斯,
+15055,丹麦超,,,Brondby IF,2517,布隆德比,
+15055,丹麦超,,,Sonderjysk Elitesport Fodbold,2519,桑德捷斯基,
+15055,丹麦超,,,Randers FC,2521,兰德斯,
+15055,丹麦超,,,Silkeborg IF,2522,锡尔克堡,
+15055,丹麦超,,,Odense BK,2523,欧登塞,
+15055,丹麦超,,,Viborg FF,2526,维堡,
+15055,丹麦超,,,Vejle Boldklub,3647,瓦埃勒,
+15055,丹麦超,,,FC Fredericia,3649,腓特烈西亚,
+14936,荷甲,,,AFC Ajax,120,阿贾克斯,
+14936,荷甲,,,PSV Eindhoven,121,埃因霍温,
+14936,荷甲,,,Go Ahead Eagles,366,前进之鹰,
+14936,荷甲,,,Feyenoord Rotterdam,367,费耶诺德,
+14936,荷甲,,,Heracles Almelo,370,赫拉克勒斯,
+14936,荷甲,,,Sparta Rotterdam,371,鹿特丹斯巴达,
+14936,荷甲,,,FC Groningen,372,格罗宁根,
+14936,荷甲,,,SC Heerenveen,373,海伦芬,
+14936,荷甲,,,SBV Excelsior,374,精英,
+14936,荷甲,,,FC Twente,375,特温特,
+14936,荷甲,,,FC Utrecht,376,乌得勒支,
+14936,荷甲,,,Alkmaar Zaanstreek,378,阿尔克马尔,
+14936,荷甲,,,Nijmegen Eendracht Combinatie,379,奈梅亨,
+14936,荷甲,,,PEC Zwolle,380,兹沃勒,
+14936,荷甲,,,NAC Breda,385,布雷达,
+14936,荷甲,,,Fortuna Sittard,387,锡塔德福图纳,
+14936,荷甲,,,SC Telstar,389,特尔斯达,
+14936,荷甲,,,FC Volendam,398,福伦丹,
+15000,苏超,,,Kilmarnock FC,21,基尔马诺克,
+15000,苏超,,,Celtic FC,23,凯尔特人,
+15000,苏超,,,Rangers FC,24,流浪者,
+15000,苏超,,,Aberdeen FC,25,阿伯丁,
+15000,苏超,,,Dundee FC,28,邓迪,
+15000,苏超,,,Motherwell FC,30,马瑟韦尔,
+15000,苏超,,,Heart of Midlothian FC,32,哈茨,
+15000,苏超,,,Hibernian FC,1017,希伯尼安,
+15000,苏超,,,Dundee United FC,1018,邓迪联,
+15000,苏超,,,Saint Mirren FC,1019,圣米伦,
+15000,苏超,,,Falkirk FC,1154,福尔柯克,
+15000,苏超,,,Livingston FC,1155,利文斯顿,
+15140,泰超,,,Ratchaburi Mitr Phol FC,1171,拉查布里,
+15140,泰超,,,Bangkok Glass FC,1182,曼谷玻璃,
+15140,泰超,,,Chiangrai United FC,1184,清莱联,
+15140,泰超,,,Buriram United FC,1186,武里南联,
+15140,泰超,,,Prachuap FC,7038,巴蜀府,
+15140,泰超,,,Lamphun Warrior FC,9887,南邦勇士,
+15140,泰超,,,Singha Krang Thong Muang Kanchanaburi,688585,北碧府,
+15140,泰超,,,Sukhothai FC,1172,素可泰,
+15140,泰超,,,Bangkok United FC,1173,曼谷联,
+15140,泰超,,,SCG Muang Thong United FC,1174,蒙通联,
+15140,泰超,,,Port FC,1177,港口FC,
+15140,泰超,,,Chonburi FC,1180,春武里,
+15140,泰超,,,Nakhon Ratchasima FC,1188,呵叻府,
+15140,泰超,,,Rayong FC,8374,罗勇,
+15140,泰超,,,Ayutthaya United FC,9898,大城联,
+15140,泰超,,,Uthai Thani FC,678763,乌泰他尼,
+14923,奥甲,,,FC Salzburg,100, 萨尔茨堡红牛,
+14923,奥甲,,,SC Rheindorf Altach,577, 阿尔特阿赫,
+14923,奥甲,,,FK Austria Wien,579, 奥地利维也纳,
+14923,奥甲,,,Wolfsberger Athletik Club,581, 沃尔夫斯贝格,
+14923,奥甲,,,SK Sturm Graz,582, 格拉茨风暴,
+14923,奥甲,,,SK Rapid Wien,583, 维也纳快速,
+14923,奥甲,,,SV Ried,584, 里德,
+14923,奥甲,,,WSG Swarovski Wattens,591, 瓦滕斯,
+14923,奥甲,,,FC Blau WeiSs Linz,593, 蓝白林茨,
+14923,奥甲,,,LASK Linz,595,林茨,
+14923,奥甲,,,TSV Hartberg,599, 哈特贝格,
+14923,奥甲,,,Liebherr Grazer AK,3410, 格拉茨,
+16036,澳甲,,,Perth Glory FC,600, 珀斯光荣,
+16036,澳甲,,,Adelaide United FC,601, 阿德莱德联,
+16036,澳甲,,,Melbourne City FC,602, 墨尔本城,
+16036,澳甲,,,Central Coast Mariners FC,603, 中央海岸水手,
+16036,澳甲,,,Brisbane Roar FC,604, 布里斯班狮吼,
+16036,澳甲,,,Newcastle Jets FC,605, 纽卡斯尔喷气机,
+16036,澳甲,,,Sydney FC,606, 悉尼,
+16036,澳甲,,,Melbourne Victory FC,607, 墨尔本胜利,
+16036,澳甲,,,Western Sydney Wanderers FC,608, 西悉尼流浪者,
+16036,澳甲,,,Wellington Phoenix FC,609, 惠灵顿凤凰,
+16036,澳甲,,,Macarthur FC,689390, 麦克阿瑟,
+16036,澳甲,,,Auckland FC,1281177, 奥克兰,
+15056,保甲,,,PFC Ludogorets 1945 Razgrad,111,卢多戈雷茨,
+15056,保甲,,,FK Botev Plovdiv,3599, 博特夫普罗夫迪夫,
+15056,保甲,,,FK Septemvri Sofia,3600, 索菲亚九月,
+15056,保甲,,,PFC Slavia Sofia,3603, 索菲亚斯拉维亚,
+15056,保甲,,,PFC CSKA Sofia,3604, 索菲亚中央陆军,
+15056,保甲,,,PFC Levski Sofia,3605, 索菲亚列夫斯基,
+15056,保甲,,,PFC Lokomotiv Plovdiv,3606, 普罗夫迪夫火车头,
+15056,保甲,,,PFC Beroe Stara Zagora,3607, 旧扎戈拉贝罗,
+15056,保甲,,,PFC Cherno More Varna,3611, 瓦尔纳黑海,
+15056,保甲,,,PFC Montana,3612, 蒙塔纳,
+15056,保甲,,,POFK Botev Vratsa,3627, 弗拉察博特夫,
+15056,保甲,,,FC Lokomotiv Sofia 1929,3629,索菲亚火车头1929,
+15056,保甲,,,PFC Dobrudzha 1919 Dobrich,3640,多布鲁扎1919,
+15056,保甲,,,PFC Spartak 1918 Varna,3644,瓦尔纳斯巴达克1918,
+15056,保甲,,,FK Arda Kardzhali,9985, 克尔贾利阿尔达,
+15056,保甲,,,FK CSKA 1948 Sofia,9987,索菲亚中央陆军1948,
+14937,比甲,,,RSC Anderlecht,61, 安德莱赫特,
+14937,比甲,,,Club Brugge KV,95, 布鲁日,
+14937,比甲,,,KAA Gent,525, 根特,
+14937,比甲,,,Royal Standard de Liege,527, 标准列日,
+14937,比甲,,,Sporting du Pays de Charleroi,529, 沙勒罗瓦,
+14937,比甲,,,Sint Truidense VV,532, 圣图尔登,
+14937,比甲,,,KRC Genk,533, 亨克,
+14937,比甲,,,KVC Westerlo,534, 韦斯特洛,
+14937,比甲,,,SV Zulte Waregem,535, 佐拉-瓦雷赫姆,
+14937,比甲,,,YR KV Mechelen,537, 梅赫伦,
+14937,比甲,,,Oud Heverlee Leuven,690, 奥德海弗利鲁汶,
+14937,比甲,,,Royal Antwerp FC,1048, 安特卫普,
+14937,比甲,,,Cercle Brugge KSV,2567, 色格拉布鲁日,
+14937,比甲,,,Royal Union Saint Gilloise,2572, 圣吉罗斯联合,
+14937,比甲,,,FC Verbroedering Dender Eendracht Hekelgem,669388, 登德尔,
+14937,比甲,,,RAAL La Louviere,669434, 拉卢维耶尔,
+15055,丹麦超,,,FC Kobenhavn,55, 哥本哈根,
+15055,丹麦超,,,FC Midtjylland,955, 中日德兰,
+15055,丹麦超,,,FC Nordsjaelland,986, 北西兰,
+15055,丹麦超,,,Aarhus Gymnastikforening,2516, 奥胡斯,
+15055,丹麦超,,,Brondby IF,2517, 布隆德比,
+15055,丹麦超,,,Sonderjysk Elitesport Fodbold,2519, 南日德兰,
+15055,丹麦超,,,Randers FC,2521, 兰讷斯,
+15055,丹麦超,,,Silkeborg IF,2522, 锡尔克堡,
+15055,丹麦超,,,Odense BK,2523, 欧登塞,
+15055,丹麦超,,,Viborg FF,2526, 维堡,
+15055,丹麦超,,,Vejle Boldklub,3647, 瓦埃勒,
+15055,丹麦超,,,FC Fredericia,3649, 弗雷德里西亚,
+14931,德乙,,,Hertha BSC,47, 柏林赫塔,
+14931,德乙,,,SV Darmstadt 1898,48,达姆施塔特98,
+14931,德乙,,,Hannoverscher Sportverein 1896,52,汉诺威96,
+14931,德乙,,,1 FC Nurnberg,127, 纽伦堡,
+14931,德乙,,,Braunschweiger TSV Eintracht 1895,128,布伦瑞克,
+14931,德乙,,,SG Dynamo Dresden,539, 德累斯顿迪纳摩,
+14931,德乙,,,VfL Bochum 1848,540,波鸿,
+14931,德乙,,,1 FC Kaiserslautern,542, 凯泽斯劳滕,
+14931,德乙,,,DSC Arminia Bielefeld,543, 比勒费尔德,
+14931,德乙,,,SpVgg Greuther Furth,544, 格罗伊特菲尔特,
+14931,德乙,,,Dusseldorfer TuS Fortuna 1895,545,杜塞尔多夫,
+14931,德乙,,,Karlsruher SC,547, 卡尔斯鲁厄,
+14931,德乙,,,SC PreuSsen 06 Munster,556,普鲁士明斯特,
+14931,德乙,,,1 FC Magdeburg,558, 马格德堡,
+14931,德乙,,,Kieler SV Holstein 1900,566,荷尔斯泰因基尔,
+14931,德乙,,,FC Schalke 04,35,沙尔克04,
+14931,德乙,,,SC Paderborn 07,53,帕德博恩,
+14931,德乙,,,SV 07 Elversberg,6326,埃尔沃斯贝格,
+14954,法乙,,,AS Saint Etienne,434, 圣埃蒂安,
+14954,法乙,,,Montpellier HSC,435, 蒙彼利埃,
+14954,法乙,,,En Avant Guingamp,436, 甘冈,
+14954,法乙,,,SC Bastia,437, 巴斯蒂亚,
+14954,法乙,,,AS Nancy Lorraine,447, 南锡,
+14954,法乙,,,Stade de Reims,451, 兰斯,
+14954,法乙,,,Amiens SC,481, 亚眠,
+14954,法乙,,,Red Star FC 93,485,红星,
+14954,法乙,,,Esperance Sportive Troyes Aube Champagne,486, 特鲁瓦,
+14954,法乙,,,Stade Lavallois Mayenne FC,487, 拉瓦勒,
+14954,法乙,,,Clermont Foot 63,490,克莱蒙,
+14954,法乙,,,US du Littoral de Dunkerque,1390, 敦刻尔克,
+14954,法乙,,,Grenoble Foot 38,1398,格勒诺布尔,
+14954,法乙,,,Rodez Aveyron Football,1399, 罗德兹,
+14954,法乙,,,Pau FC,1402, 波城,
+14954,法乙,,,FC Annecy,3897, 阿讷西,
+14954,法乙,,,Le Mans FC,3906, 勒芒,
+14954,法乙,,,US Boulogne sur Mer Cote dOpale,1392, 滨海布洛涅,
+16614,哥甲,,,Asociacion Deportivo Cali,2132, 卡利美洲,
+16614,哥甲,,,Independiente Santa Fe SA,2133, 圣菲独立,
+16614,哥甲,,,Once Caldas SA,2135, 卡尔达斯十一人,
+16614,哥甲,,,Millonarios FC SA,2136, 百万富翁,
+16614,哥甲,,,CA Bucaramanga,2139, 布卡拉曼加,
+16614,哥甲,,,Club Atletico Nacional SA,2142, 国民竞技,
+16614,哥甲,,,Alianza Petrolera FC,2146, 石油联盟,
+16614,哥甲,,,CD La Equidad Seguros SA,2149, 拉伊奎达德,
+16614,哥甲,,,Deportivo Boyaca Chico FC SA,2151, 博亚卡奇科,
+16614,哥甲,,,Fortaleza CEIF FC,2152, 福塔莱萨,
+16614,哥甲,,,Corporacion Nuevo Cucuta Deportivo,2153, 库库塔体育,
+16614,哥甲,,,Club Llaneros SA,2159, 亚内罗斯,
+16614,哥甲,,,CD Popular Junior FC SA,2131, 巴兰基亚青年,
+16614,哥甲,,,Deportivo Independiente Medellin,2137, 麦德林独立,
+16614,哥甲,,,Club Deportes Tolima SA,2140, 托利马体育,
+16614,哥甲,,,Sociedad Anonima Deportiva America SA,2141, 卡利美洲,
+16614,哥甲,,,AD Pasto,2143, 帕斯托体育,
+16614,哥甲,,,Rionegro Aguilas SA,2147, 里奥内格罗老鹰,
+16614,哥甲,,,Jaguares de Cordoba FC,2150, 科尔多瓦美洲虎,
+16614,哥甲,,,CS Deportiva y Cultural de Pereira,2161, 佩雷拉体育,
+14973,捷甲,,,AC Sparta Praha,86, 布拉格斯巴达,
+14973,捷甲,,,SK Slavia Praha,1213, 布拉格斯拉维亚,
+14973,捷甲,,,MFK Karvina,2424, 卡尔维纳,
+14973,捷甲,,,FK Dukla Praha,2425, 布拉格杜克拉,
+14973,捷甲,,,1 FC Slovacko,2426, 斯洛瓦茨科,
+14973,捷甲,,,FC Slovan Liberec,2428, 利贝雷茨,
+14973,捷甲,,,SK Sigma Olomouc,2431, 奥洛穆茨西格玛,
+14973,捷甲,,,FC Banik Ostrava,2432, 巴尼克俄斯特拉发,
+14973,捷甲,,,FC FASTAV Zlin,2433, 兹林,
+14973,捷甲,,,Bohemians 1905,2434,波希米亚人1905,
+14973,捷甲,,,FK Mlada Boleslav,2435, 姆拉达博莱斯拉夫,
+14973,捷甲,,,FK Teplice,2436, 特普利采,
+14973,捷甲,,,FC Hradec Kralove,2437, 赫拉德茨克拉洛韦,
+14973,捷甲,,,FK Pardubice,2449, 帕尔杜比采,
+14973,捷甲,,,FC Viktoria Plzen,77, 比尔森胜利,
+14973,捷甲,,,FK Jablonec ,2430, 亚布洛内茨,
+15015,罗甲,,,SC Fotbal Club FCSB SA,97, 布加勒斯特星,
+15015,罗甲,,,FC Dinamo 1948 Bucuresti,5400,布加勒斯特迪纳摩,
+15015,罗甲,,,AFC Botosani,6621, 博托沙尼,
+15015,罗甲,,,SCS CFR 1907 Cluj,6622,克卢日,
+15015,罗甲,,,FC Otelul Galati,6633, 加拉茨钢铁,
+15015,罗甲,,,AFC Hermannstadt,6638, 赫尔曼施泰特,
+15015,罗甲,,,CS Metaloglobus Bucuresti,6642, 金属地球仪,
+15015,罗甲,,,FC Arges Pitesti,6644, 阿尔杰什,
+15015,罗甲,,,AFC UTA Arad,6653, 阿拉德联,
+15015,罗甲,,,FC Unirea 2004 Slobozia,6670,斯拉博齐亚联,
+15015,罗甲,,,SSC Farul Constanta,10305, 康斯坦察灯塔,
+15015,罗甲,,,FC Universitatea Cluj,10306, 克卢日大学,
+15015,罗甲,,,ACS Petrolul 52 Ploiesti,10307,普洛耶什蒂石油,
+15015,罗甲,,,CS Universitatea Craiova,12956, 克拉约瓦大学,
+15015,罗甲,,,FC Rapid Bucuresti,13181, 布加勒斯特快速,
+15015,罗甲,,,AFK Csikszereda Miercurea Ciuc,669561, 米耶尔库雷亚丘克,
+15047,瑞士超,,,FC Basel 1893,79,巴塞尔,
+15047,瑞士超,,,BSC Young Boys,94, 伯尔尼年轻人,
+15047,瑞士超,,,FC Thun,888, 图恩,
+15047,瑞士超,,,FC Sion,889, 锡永,
+15047,瑞士超,,,FC Luzern,890, 卢塞恩,
+15047,瑞士超,,,FC Sankt Gallen 1879,891,圣加仑,
+15047,瑞士超,,,Grasshopper Club Zurich,892, 草蜢,
+15047,瑞士超,,,FC Lugano,894, 卢加诺,
+15047,瑞士超,,,FC Lausanne Sport,895, 洛桑体育,
+15047,瑞士超,,,FC Zurich,896, 苏黎世,
+15047,瑞士超,,,Servette FC,898, 塞尔维特,
+15047,瑞士超,,,FC Winterthur,903, 温特图尔,
+14972,土超,,,Fenerbahce,105, 费内巴切,
+14972,土超,,,Besiktas,109, 贝西克塔斯,
+14972,土超,,,Trabzonspor,185, 特拉布宗体育,
+14972,土超,,,Galatasaray,187, 加拉塔萨雷,
+14972,土超,,,Alanyaspor,189, 阿拉尼亚体育,
+14972,土超,,,Caykur Rizespor,192, 里泽体育,
+14972,土超,,,Kayserispor,193, 开塞利体育,
+14972,土超,,,Konyaspor,194, 科尼亚体育,
+14972,土超,,,Antalyaspor,195, 安塔利亚体育,
+14972,土超,,,Istanbul Basaksehir FK,196, 伊斯坦布尔,
+14972,土超,,,Kasimpasa,197, 卡森柏沙,
+14972,土超,,,Genclerbirligi,199, 青年联合,
+14972,土超,,,Samsunspor,350, 萨姆松体育,
+14972,土超,,,Gaziantep FK,355, 加济安泰普,
+14972,土超,,,Goztepe,357, 格兹泰佩,
+14972,土超,,,Eyup Spor Kulubu,10639, 埃尤普体育,
+14972,土超,,,Fatih Karagumruk Spor Kulubu,10659, 法提赫卡拉古鲁克,
+14972,土超,,,Kocaelispor Kulubu,11088, 科贾埃利体育,
+15066,西乙,,,UD Las Palmas,276, 拉斯帕尔马斯,
+15066,西乙,,,CD Leganes,278, 莱加内斯,
+15066,西乙,,,SD Eibar,279, 埃瓦尔,
+15066,西乙,,,Granada CF,282, 格拉纳达,
+15066,西乙,,,Malaga CF,283, 马拉加,
+15066,西乙,,,Real Club Deportivo de La Coruna,286, 拉科鲁尼亚,
+15066,西乙,,,Real Sporting de Gijon,289, 希洪竞技,
+15066,西乙,,,Cordoba CF,294, 科尔多瓦,
+15066,西乙,,,UD Almeria,296, 阿尔梅里亚,
+15066,西乙,,,Real Valladolid Club de Futbol,297, 巴利亚多利德,
+15066,西乙,,,Real Zaragoza,299, 萨拉戈萨,
+15066,西乙,,,CD Mirandes,300, 米兰德斯,
+15066,西乙,,,SD Huesca,301, 韦斯卡,
+15066,西乙,,,Cadiz CF,310, 加的斯,
+15066,西乙,,,Albacete Balompie,316, 阿尔瓦塞特,
+15066,西乙,,,Real Racing Club de Santander,319, 桑坦德竞技,
+15066,西乙,,,Cultural y Deportiva Leonesa,1023, 莱昂内萨文化体育,
+15066,西乙,,,Burgos CF,4546, 布尔戈斯,
+15066,西乙,,,Real Sociedad de Futbol II,4556, 皇家社会,
+15066,西乙,,,CD Castellon,6257, 卡斯特利翁,
+15066,西乙,,,Agrupacion Deportiva Ceuta FC,10870, 休达,
+15066,西乙,,,FC Andorra,672363, 安道尔,
+15163,希腊超,,,PAOK Thessaloniki FC,106, 塞萨洛尼基,
+15163,希腊超,,,Olympiakos CFP,116, 奥林匹亚科斯,
+15163,希腊超,,,Panathinaikos FC,960, 帕纳辛奈科斯,
+15163,希腊超,,,AEK Athens FC,1101, 雅典,
+15163,希腊超,,,Panaitolikos GFS Agrinio,1103, 帕纳托利克斯,
+15163,希腊超,,,AE Larissa,1106, 拉里萨,
+15163,希腊超,,,Asteras Tripolis FC,1107, 阿斯特拉斯,
+15163,希腊超,,,Levadiakos FC,1108, 莱瓦迪亚科斯,
+15163,希腊超,,,PAE APS Atromitos Athens,1109, 阿特罗米托斯,
+15163,希腊超,,,OFI FC,5130,克里特,
+15163,希腊超,,,Aris Thessaloniki FC,5131, 阿里斯,
+15163,希腊超,,,Panserraikos FC,5138, 潘塞莱科斯,
+15163,希腊超,,,Kifisias FC,5168, 基菲夏,
+15163,希腊超,,,Volos New Football Club,5199, 沃洛斯,
+15632,意乙,,,Delfino Pescara 1936,458, 佩斯卡拉,
+15632,意乙,,,US Citta di Palermo,462, 巴勒莫,
+15632,意乙,,,UC Sampdoria,465, 桑普多利亚,
+15632,意乙,,,Frosinone Calcio,474, 弗罗西诺内,
+15632,意乙,,,AC Cesena,475, 切塞纳,
+15632,意乙,,,US Avellino,499, 阿韦利诺,
+15632,意乙,,,FC Bari 1908,500,巴里,
+15632,意乙,,,ASD Spezia Calcio 2008,513,斯佩齐亚,
+15632,意乙,,,ACD Virtus Entella,514, 恩泰拉维图斯,
+15632,意乙,,,Modena FC,517, 摩德纳,
+15632,意乙,,,SS Juve Stabia,520, 尤维斯塔比亚,
+15632,意乙,,,Calcio Padova Spa,2314, 帕多瓦,
+15632,意乙,,,Catanzaro Calcio 2011,2350,卡坦扎罗,
+15632,意乙,,,AC Reggiana 1919,2354,雷吉亚纳,
+15632,意乙,,,Carrarese Calcio,2358, 卡拉雷塞,
+15632,意乙,,,Mantova FC,2363, 曼托瓦,
+15632,意乙,,,Empoli FC,459, 恩波利,
+15632,意乙,,,Venezia FC,1047, 威尼斯,
+15632,意乙,,,FC Sudtirol,2312, 南蒂罗尔,
+15632,意乙,,,SS Monza 1912,2356,蒙扎,
+14930,英冠,,,Leicester City FC,108, 莱斯特城,
+14930,英冠,,,West Bromwich Albion FC,142, 西布罗姆维奇,
+14930,英冠,,,Southampton FC,146, 南安普顿,
+14930,英冠,,,Middlesbrough FC,147, 米德尔斯堡,
+14930,英冠,,,Hull City AFC,150, 赫尔城,
+14930,英冠,,,Swansea City AFC,154, 斯旺西,
+14930,英冠,,,Watford FC,155, 沃特福德,
+14930,英冠,,,Norwich City FC,159, 诺维奇,
+14930,英冠,,,Queens Park Rangers FC,160, 女王公园巡游者,
+14930,英冠,,,Birmingham City FC,206, 伯明翰,
+14930,英冠,,,Bristol City FC,207, 布里斯托城,
+14930,英冠,,,Preston North End FC,210, 普雷斯顿,
+14930,英冠,,,Derby County FC,213, 德比郡,
+14930,英冠,,,Sheffield Wednesday FC,214, 谢周三,
+14930,英冠,,,Blackburn Rovers FC,216, 布莱克本,
+14930,英冠,,,Ipswich Town FC,220, 伊普斯维奇,
+14930,英冠,,,Charlton Athletic FC,225, 查尔顿,
+14930,英冠,,,Millwall FC,229, 米尔沃尔,
+14930,英冠,,,Coventry City FC,239, 考文垂,
+14930,英冠,,,Oxford United FC,243, 牛津联,
+14930,英冠,,,Sheffield United FC,251, 谢菲联,
+14930,英冠,,,Portsmouth FC,272, 朴茨茅斯,
+14930,英冠,,,Wrexham FC,1837, 雷克瑟姆,
+14930,英冠,,,Stoke City FC,141, 斯托克城,
+16615,智甲,,,Audax Italiano La Florida SADP,2186, 奥达克斯意大利人,
+16615,智甲,,,Everton de Vina del Mar,2187, 维尼亚德尔马埃弗顿,
+16615,智甲,,,CSD Colo Colo,2188, 科洛科洛,
+16615,智甲,,,CFP Universidad de Chile,2189, 智利大学,
+16615,智甲,,,CD OHiggins,2191, 奥希金斯,
+16615,智甲,,,CD Palestino,2193, 帕莱斯蒂诺,
+16615,智甲,,,CD Universidad Catolica,2194, 天主教大学,
+16615,智甲,,,CD Huachipato,2195, 瓦奇巴托,
+16615,智甲,,,CD Universidad de Concepcion,2196, 康塞普西翁大学,
+16615,智甲,,,CD Cobresal,2197, 科布雷萨尔,
+16615,智甲,,,Deportivo Nublense SADP,2201, 努布伦斯,
+16615,智甲,,,CD La Serena,2209, 拉塞雷纳,
+16615,智甲,,,CD Coquimbo Unido,2210, 科金博联合,
+16615,智甲,,,CD Concepcion,2213, 康塞普西翁,
+16615,智甲,,,Club Deportes Limache,2235, 利马切,
+16615,智甲,,,CD Union La Calera,2199, 拉卡莱拉联合,
+14877,波甲,,,Polonia Warszawa,797,华沙波兰人,
+14877,波甲,,,ŁKS Łódź,1066,ŁKS罗兹,

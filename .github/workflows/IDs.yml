@@ -1,0 +1,47 @@
+name: IDs
+on:
+  schedule:
+    # Runs at 08:00 UTC every day
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    env:
+      # Primary Database
+      DB_HOST: ${{ secrets.DB_HOST }}
+      DB_PORT: ${{ secrets.DB_PORT }}
+      DB_DATABASE: ${{ secrets.DB_DATABASE }}
+      DB_USER: ${{ secrets.DB_USER }}
+      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      
+      # Secondary Database
+      WINBETS_DB_HOST: ${{ secrets.WINBETS_DB_HOST }}
+      WINBETS_DB_PORT: ${{ secrets.WINBETS_DB_PORT }}
+      WINBETS_DB_DATABASE: ${{ secrets.WINBETS_DB_DATABASE }}
+      WINBETS_DB_USER: ${{ secrets.WINBETS_DB_USER }}
+      WINBETS_DB_PASSWORD: ${{ secrets.WINBETS_DB_PASSWORD }}
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f req.txt ]; then pip install -r req.txt; fi
+    
+    - name: Run Python script
+      run: python winbetsID.py
+    - name: Run v3
+      run: python v3_over_under.py
+
+    - name: run grade
+      run: python v3_ou_grade.py
