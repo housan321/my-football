@@ -3,7 +3,7 @@ name: Validate and Predict
 on:
   schedule:
     # Run every day at 5:00 AM UTC - validates first, then predicts
-    - cron: '0 12 * * *'
+    - cron: '0 7 * * *'
     
   # Allow manual triggering
   workflow_dispatch:
