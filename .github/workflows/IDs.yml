@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # 👈 添加这一行
       # Primary Database
       DB_HOST: ${{ secrets.DB_HOST }}
       DB_PORT: ${{ secrets.DB_PORT }}
