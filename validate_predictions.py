@@ -13,12 +13,12 @@ import psycopg2
 from psycopg2 import sql
 import json
 import os
+from dotenv import load_dotenv
 warnings.filterwarnings('ignore')
 
 # ==================== API CONFIGURATION ====================
-from utils import get_api_key
-# Configuration
-API_KEY = get_api_key("FOOTYSTATSAPI")
+load_dotenv()
+API_KEY = os.getenv("FOOTYSTATSAPI")
 
 # Try multiple API endpoint configurations
 API_CONFIGS = [
