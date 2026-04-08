@@ -3,7 +3,7 @@ name: Daily Football Predictions
 on:
   schedule:
     # Run every day at 6:00 AM UTC (11:30 AM IST)
-    - cron: '0 7 * * *'
+    - cron: '0 6 * * *'
     
   # Allow manual triggering
   workflow_dispatch:
