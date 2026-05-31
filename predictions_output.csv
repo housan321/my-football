@@ -1,3 +1,2 @@
 match_id,home_id,away_id,league_id,date,league,home_team,away_team,ou_prediction,ou_probability,over_2_5_odds,under_2_5_odds,ml_prediction,ml_probability,home_win_odds,away_win_odds,ou_confidence,ml_confidence,ou_confidence_level,ml_confidence_level
-8529174,68,59,14924,2026-05-31 00:00:00,欧冠,巴黎圣日耳曼,阿森纳,Over 2.5,0.5466659107271573,2.0,1.72,Home Win,0.5224589210954438,2.26,3.1,51.466318934492364,40.33110370390414,MEDIUM,LOW
-8537308,525,533,14937,2026-06-01 00:30:00,比甲, 根特, 亨克,Over 2.5,0.5549129347021654,1.7,2.1,Away Win,0.2717784079330259,3.03,2.2,55.25994996299608,83.69329552401845,MEDIUM,HIGH
+8537308,525,533,14937,2026-06-01 00:30:00,比甲, 根特, 亨克,Over 2.5,0.5549129347021654,1.7,2.1,Away Win,0.2718388650030432,3.04,2.21,55.25994996299608,83.68966809981741,MEDIUM,HIGH
