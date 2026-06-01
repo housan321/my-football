@@ -1,2 +1,2 @@
 match_id,home_id,away_id,league_id,date,league,home_team,away_team,ou_prediction,ou_probability,over_2_5_odds,under_2_5_odds,ml_prediction,ml_probability,home_win_odds,away_win_odds,ou_confidence,ml_confidence,ou_confidence_level,ml_confidence_level
-8537308,525,533,14937,2026-06-01 00:30:00,比甲, 根特, 亨克,Over 2.5,0.5549129347021654,1.7,2.1,Away Win,0.2718388650030432,3.04,2.21,55.25994996299608,83.68966809981741,MEDIUM,HIGH
+8537308,525,533,14937,2026-06-01 00:30:00,比甲, 根特, 亨克,Under 2.5,0.4926752516566999,1.7,2.1,Away Win,0.28197650119380363,3.04,2.21,33.36938423791805,83.08140992837178,LOW,HIGH
