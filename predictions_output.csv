@@ -1,2 +1,2 @@
 match_id,home_id,away_id,league_id,date,league,home_team,away_team,ou_prediction,ou_probability,over_2_5_odds,under_2_5_odds,ml_prediction,ml_probability,home_win_odds,away_win_odds,ou_confidence,ml_confidence,ou_confidence_level,ml_confidence_level
-8537308,525,533,14937,2026-06-01 00:30:00,比甲, 根特, 亨克,Under 2.5,0.4926752516566999,1.7,2.1,Away Win,0.28197650119380363,3.04,2.21,33.36938423791805,83.08140992837178,LOW,HIGH
+8537391,2131,2142,16614,2026-06-03 08:30:00,哥甲, 巴兰基亚青年, 国民竞技,Under 2.5,0.4512808058656409,2,1.73,Away Win,0.4056208445199264,2.3,2.92,52.41082930180519,73.41441152083385,MEDIUM,MEDIUM
